@@ -9,7 +9,6 @@ A pocketmine installer
 
 More information about Pocketmine requirements https://pmmp.readthedocs.io/en/rtfd/installation/requirements.html#
 
-- You can install for arch linux too! must 64 bit arch linux. link "https://github.com/BridledCosine62/pocketmine-installer/blob/main/install-pmmp-arch.sh"
 # installation
 - first clone the repository ```git clone https://github.com/BridledCosine62/pocketmine-installer-v2.git```
 - go to pocketmine installer directory ```cd pocketmine-installer```
