@@ -13,6 +13,7 @@ More information about Pocketmine requirements https://pmmp.readthedocs.io/en/rt
 - first clone the repository ```git clone https://github.com/BridledCosine62/pocketmine-installer-v2.git```
 - go to pocketmine installer directory ```cd pocketmine-installer```
 - if the script is not executable make it executable ```chmod +x install.sh```
+- now run the script ```./install.sh```
 # Supported OS for this installer
 - Debian
 - Ubuntu
