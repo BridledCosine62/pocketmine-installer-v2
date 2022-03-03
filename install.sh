@@ -18,6 +18,7 @@ case $input in
  echo "Installing pocketmine now....."
  cd $HOME
  mkdir pocketmine
+ cd pocketmine
  apt install curl -y
  curl -sL https://get.pmmp.io | bash -s -
  ;;
